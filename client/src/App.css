@@ -1,0 +1,14 @@
+.App{
+  text-align: center;
+}
+.petsContainer{
+  display: inline-flex;  
+  flex-flow: wrap;
+  padding-top: 70px;
+}
+.petContainer{
+  flex: 50%;
+}
+.buttonContainer{
+  display: inline-flex;
+}
